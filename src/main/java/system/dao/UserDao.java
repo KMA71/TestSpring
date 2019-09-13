@@ -1,7 +1,5 @@
 package system.dao;
 
-
-import org.graalvm.compiler.lir.LIRInstruction;
 import org.springframework.stereotype.Repository;
 import system.model.User;
 
